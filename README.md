@@ -1,5 +1,15 @@
 # Ng7
 
+## Home page
+
+1. Getting data from api-endpoint using HttpClientModule
+
+![](./src/assets/home.png)
+
+2. Showing/validating form using ReactiveFormsModule
+
+![](./src/assets/contact-us.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
 ## Development server
